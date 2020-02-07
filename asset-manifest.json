@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Akki-solutions/static/css/main.54a1f505.chunk.css",
-    "main.js": "/Akki-solutions/static/js/main.3f5f9df9.chunk.js",
-    "main.js.map": "/Akki-solutions/static/js/main.3f5f9df9.chunk.js.map",
-    "runtime-main.js": "/Akki-solutions/static/js/runtime-main.f1ad1f4c.js",
-    "runtime-main.js.map": "/Akki-solutions/static/js/runtime-main.f1ad1f4c.js.map",
-    "static/css/2.3dedee37.chunk.css": "/Akki-solutions/static/css/2.3dedee37.chunk.css",
-    "static/js/2.d0f1375a.chunk.js": "/Akki-solutions/static/js/2.d0f1375a.chunk.js",
-    "static/js/2.d0f1375a.chunk.js.map": "/Akki-solutions/static/js/2.d0f1375a.chunk.js.map",
-    "index.html": "/Akki-solutions/index.html",
-    "precache-manifest.c9b60d4c51f1e6d13cd4b59148ae5ac3.js": "/Akki-solutions/precache-manifest.c9b60d4c51f1e6d13cd4b59148ae5ac3.js",
-    "service-worker.js": "/Akki-solutions/service-worker.js",
-    "static/css/2.3dedee37.chunk.css.map": "/Akki-solutions/static/css/2.3dedee37.chunk.css.map",
-    "static/css/main.54a1f505.chunk.css.map": "/Akki-solutions/static/css/main.54a1f505.chunk.css.map",
-    "static/js/2.d0f1375a.chunk.js.LICENSE": "/Akki-solutions/static/js/2.d0f1375a.chunk.js.LICENSE",
-    "static/media/Logo1.png": "/Akki-solutions/static/media/Logo1.192aa2ac.png",
-    "static/media/logo.png": "/Akki-solutions/static/media/logo.eced0b42.png"
+    "main.css": "/Akki-solutions/home/static/css/main.54a1f505.chunk.css",
+    "main.js": "/Akki-solutions/home/static/js/main.e5162d37.chunk.js",
+    "main.js.map": "/Akki-solutions/home/static/js/main.e5162d37.chunk.js.map",
+    "runtime-main.js": "/Akki-solutions/home/static/js/runtime-main.9f78630c.js",
+    "runtime-main.js.map": "/Akki-solutions/home/static/js/runtime-main.9f78630c.js.map",
+    "static/css/2.3dedee37.chunk.css": "/Akki-solutions/home/static/css/2.3dedee37.chunk.css",
+    "static/js/2.d0f1375a.chunk.js": "/Akki-solutions/home/static/js/2.d0f1375a.chunk.js",
+    "static/js/2.d0f1375a.chunk.js.map": "/Akki-solutions/home/static/js/2.d0f1375a.chunk.js.map",
+    "index.html": "/Akki-solutions/home/index.html",
+    "precache-manifest.49d9c00fdde7f6f0815a3c3ef3ca7de1.js": "/Akki-solutions/home/precache-manifest.49d9c00fdde7f6f0815a3c3ef3ca7de1.js",
+    "service-worker.js": "/Akki-solutions/home/service-worker.js",
+    "static/css/2.3dedee37.chunk.css.map": "/Akki-solutions/home/static/css/2.3dedee37.chunk.css.map",
+    "static/css/main.54a1f505.chunk.css.map": "/Akki-solutions/home/static/css/main.54a1f505.chunk.css.map",
+    "static/js/2.d0f1375a.chunk.js.LICENSE": "/Akki-solutions/home/static/js/2.d0f1375a.chunk.js.LICENSE",
+    "static/media/Logo1.png": "/Akki-solutions/home/static/media/Logo1.192aa2ac.png",
+    "static/media/logo.png": "/Akki-solutions/home/static/media/logo.eced0b42.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f1ad1f4c.js",
+    "static/js/runtime-main.9f78630c.js",
     "static/css/2.3dedee37.chunk.css",
     "static/js/2.d0f1375a.chunk.js",
     "static/css/main.54a1f505.chunk.css",
-    "static/js/main.3f5f9df9.chunk.js"
+    "static/js/main.e5162d37.chunk.js"
   ]
 }
