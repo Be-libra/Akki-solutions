@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Akki-solutions/static/css/main.7ae57f0c.chunk.css",
-    "main.js": "/Akki-solutions/static/js/main.1becbbb0.chunk.js",
-    "main.js.map": "/Akki-solutions/static/js/main.1becbbb0.chunk.js.map",
+    "main.js": "/Akki-solutions/static/js/main.22a7c823.chunk.js",
+    "main.js.map": "/Akki-solutions/static/js/main.22a7c823.chunk.js.map",
     "runtime-main.js": "/Akki-solutions/static/js/runtime-main.f1ad1f4c.js",
     "runtime-main.js.map": "/Akki-solutions/static/js/runtime-main.f1ad1f4c.js.map",
     "static/css/2.3dedee37.chunk.css": "/Akki-solutions/static/css/2.3dedee37.chunk.css",
     "static/js/2.5c378e52.chunk.js": "/Akki-solutions/static/js/2.5c378e52.chunk.js",
     "static/js/2.5c378e52.chunk.js.map": "/Akki-solutions/static/js/2.5c378e52.chunk.js.map",
     "index.html": "/Akki-solutions/index.html",
-    "precache-manifest.5136a72b594e4b8b9692bf5d02b59195.js": "/Akki-solutions/precache-manifest.5136a72b594e4b8b9692bf5d02b59195.js",
+    "precache-manifest.7b9af505e25858daaa459f50a0dd94e0.js": "/Akki-solutions/precache-manifest.7b9af505e25858daaa459f50a0dd94e0.js",
     "service-worker.js": "/Akki-solutions/service-worker.js",
     "static/css/2.3dedee37.chunk.css.map": "/Akki-solutions/static/css/2.3dedee37.chunk.css.map",
     "static/css/main.7ae57f0c.chunk.css.map": "/Akki-solutions/static/css/main.7ae57f0c.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.3dedee37.chunk.css",
     "static/js/2.5c378e52.chunk.js",
     "static/css/main.7ae57f0c.chunk.css",
-    "static/js/main.1becbbb0.chunk.js"
+    "static/js/main.22a7c823.chunk.js"
   ]
 }
